@@ -1,6 +1,6 @@
 # Proto-Eastern
 
-**Proto-Eastern** is the language which has had the most influence on the [Eastern Continent's](Eastern Continents.md) languages.
+**Proto-Eastern** is the language which has had the most influence on the **Eastern Continent's** languages.
 
 ## Phonology
 
