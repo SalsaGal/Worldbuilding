@@ -1,6 +1,6 @@
 # Mahemahespogas
 
-**Mahemahespogas** (/maʃɛmaʃɛspoŋas/) is the language spoken by the **Atskenas**. The language name literally means "The language I'm speaking now" and is usually abbreviated to "mahegas"
+**Mahemahespogas** (/maʃɛmaʃɛspoŋas/) is the language spoken by the upper class of the **Atskenap**. The language name literally means "The language I'm speaking now" and is usually abbreviated to "mahegas".  The language is a "corruption" of the language spoken by Northern commoners, created by the upper class during the **Northern scientific reform** to disguise their speech, which would contain scientific secrets, from the commoners.
 
 ## Phonology
 
