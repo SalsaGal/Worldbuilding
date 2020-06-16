@@ -30,11 +30,11 @@
 
 ## Counting system
 
-Mahegas uses a bijective base-8 positional counting system.
+Mahegas uses a bijective base-8 positional counting system ("Bijective octal").
 
-| Base 10 positional notation | Base 8 positional notation | Ibid, bijective            | Mahegas                |
+| Decimal | Octal | Bijective octal | Mahegas                |
 | --------------------------- | -------------------------- | -------------------------- | ---------------------- |
-| 0                           | 0                          | (no way to express purely) | (nullar declined noun) |
+| 0                           | 0                          | - | - |
 | 1                           | 1                          | 1                          | I                      |
 | 2                           | 2                          | 2                          | V                      |
 | 3                           | 3                          | 3                          | O                      |
@@ -50,3 +50,4 @@ Mahegas uses a bijective base-8 positional counting system.
 | 16                          | 20                         | 18                         | IL                     |
 | 17                          | 21                         | 21                         | VI                     |
 
+As a result of bijectivity, there is no way, in a pure mathematical sense, to represent 0, however, the nullar case of nouns is sufficient for normal use.
